@@ -27,6 +27,7 @@ venv/
 *.ppm
 *.png
 *.jpg
+!docs/*.jpg
 
 # IDE & OS Files
 .vs/
