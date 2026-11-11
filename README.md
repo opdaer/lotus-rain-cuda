@@ -110,6 +110,12 @@ python render_badged_edition.py --input lotus_rain_65536_cuda.mp4 --output lotus
 
 ---
 
+## Companion Gemini 4 Carbon Project
+
+- **[`opdaer/mortise-and-rain`](https://github.com/opdaer/mortise-and-rain)** ([Live Interactive Demo](https://mortise-and-rain-song.web.app)) — 181-part millimeter-accurate **1103 AD Song Dynasty (*Yingzao Fashi*)** mortise-and-tenon pavilion (`±0.00 mm` fit) with 12-layer analytical spring disassembly, structure-tensor Anisotropic Kuwahara Song ink scroll shader, and Karplus-Strong joinery audio in a single zero-asset HTML file.
+
+---
+
 ## Author & License
 
 - Created by **[@jianzhang1987](https://x.com/jianzhang1987)** using **Gemini 4 Carbon** in **Google Antigravity**.
