@@ -1,0 +1,36 @@
+# CMake & Compiler Build Outputs
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+CMakeUserPresets.json
+cmake_install.cmake
+compile_commands.json
+*.obj
+*.o
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated Media, Telemetry & QA Frames
+*.mp4
+*.wav
+*.bin
+*.ppm
+*.png
+*.jpg
+
+# IDE & OS Files
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
